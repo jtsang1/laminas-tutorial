@@ -1,4 +1,5 @@
 # laminas-mvc-skeleton
+- This is the Laminas 3.1 basic tutorial completed.
 
 ## Introduction
 
