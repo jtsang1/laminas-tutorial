@@ -1,5 +1,5 @@
 # laminas-mvc-skeleton
-- This is the Laminas 3.1 basic tutorial completed.
+- This app includes the completed Laminas 3.1 basic tutorial and in-depth tutorial.
 
 ## Introduction
 
